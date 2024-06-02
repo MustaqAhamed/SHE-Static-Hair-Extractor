@@ -7,8 +7,7 @@ Steps to recreate the model:-
 1. Build a vacuum cleaner. You can refer to the video below to innovate a simple vacuum cleaner to implement this project:-
 
 Link 1 for prototype Model: 
-[![Watch the video](https://youtu.be/jkQsBD5WtDo?si=zvziku6Fhk6Yxd9K)]
-
+[![Video Title](https://img.youtube.com/vi/3g7W8sgWzhU&t=11s/0.jpg)](https://www.youtube.com/watch?v=3g7W8sgWzhU&t=11s)
 Link 2 for Product Model: 
 [![Watch the video](https://youtu.be/3g7W8sgWzhU?si=5so6O2VV_H5sROzf)]
 
