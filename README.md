@@ -23,6 +23,5 @@ Final year Engineering Project.
 
 ![VACUUM CLEANER](https://github.com/MustaqAhamed/SHE-Static-Hair-Extractor/assets/44725818/9318187a-1b27-4634-8ebd-c51cdd3b01ba)
 
-
 ## Product Model
 ![New](https://github.com/MustaqAhamed/SHE-Static-Hair-Extractor/assets/44725818/5def4e12-e1d4-4d26-8b1b-6a9fa314c64b)
