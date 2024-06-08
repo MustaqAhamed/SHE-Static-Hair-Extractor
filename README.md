@@ -7,13 +7,12 @@ Final year Engineering Project.
 1. **Build a vacuum cleaner**. You can refer to the video below to innovate a simple vacuum cleaner to implement this project:-
 
 ## Link 1 for Prototype Model:-
-[![Video Title](https://img.youtube.com/vi/jkQsBD5WtDo&t=1s/0.jpg)](https://www.youtube.com/watch?v=jkQsBD5WtDo&t=1s)
+[![Watch this video](https://img.youtube.com/vi/jkQsBD5WtDo&t=1s/0.jpg)](https://www.youtube.com/watch?v=jkQsBD5WtDo&t=1s)
 
 ## Link 2 for Product Model:-
 [![Video Title](https://img.youtube.com/vi/3g7W8sgWzhU/0.jpg)](https://www.youtube.com/watch?v=3g7W8sgWzhU)
 
-
-
+        
 2. **Fit a TCS3200 sensor next to the hose**. Integrate the sensor with an Arduino board to run the motor when the black hair color is detected (you can also program it for other hair colors). The black color was programmed considering the majority of human hair color found in the world population.
 
 3. **Add a filter** to enhance the vacuum capability of extracting hair and separating other waste.
