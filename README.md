@@ -6,10 +6,10 @@ Final year Engineering Project.
 
 1. **Build a vacuum cleaner**. You can refer to the video below to innovate a simple vacuum cleaner to implement this project:-
 
-## Link 1 for Prototype Model:-
+## Building Prototype Model:-
 [![Watch this video](https://img.youtube.com/vi/jkQsBD5WtDo&t=1s/0.jpg)](https://www.youtube.com/watch?v=jkQsBD5WtDo&t=1s)
 
-## Link 2 for Product Model:-
+## Building Product Model:-
 [![Video Title](https://img.youtube.com/vi/3g7W8sgWzhU/0.jpg)](https://www.youtube.com/watch?v=3g7W8sgWzhU)
 
         
