@@ -11,6 +11,10 @@ Link 1 for prototype Model:
 Link 2 for Product Model: 
 [![Watch the video](https://youtu.be/3g7W8sgWzhU?si=5so6O2VV_H5sROzf)]
 
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3g7W8sgWzhU&t=11s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 2. A TCS3200 sensor needs to be fitted next to the hose. It would be best to integrate the sensor with an Arduino board to run the motor when the black hair color is detected (you can also program it for other hair colors). The black color was programmed considering the majority of human hair color found in the world population.
 
 3. A filter is required to enhance the vacuum capability of extracting hair and separating other waste.
