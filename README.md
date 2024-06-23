@@ -25,3 +25,7 @@ Final year Engineering Project.
 
 ## Product Model
 ![New](https://github.com/MustaqAhamed/SHE-Static-Hair-Extractor/assets/44725818/5def4e12-e1d4-4d26-8b1b-6a9fa314c64b)
+
+
+## If you want to check out my story on how I developed this prototype, check out my blog in medium:-
+https://medium.com/@syedmustaqahmed5/she-static-hair-extractor-e3330d4422b8
